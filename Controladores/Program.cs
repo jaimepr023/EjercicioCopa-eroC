@@ -1,7 +1,7 @@
-﻿using EjercicioCompañeroc.Servicios;
+﻿using EjercicioCompaneroc.Servicios;
 using System.Collections;
 
-namespace EjercicioCompañeroc.Controladores
+namespace EjercicioCompaneroc.Controladores
 {
     class program
     {

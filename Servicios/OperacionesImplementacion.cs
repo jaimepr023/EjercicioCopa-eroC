@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjercicioCompañeroc.Servicios
+namespace EjercicioCompaneroc.Servicios
 {
     internal class OperacionesImplementacion : OperacionesInterfaz
     {
